@@ -1,3 +1,7 @@
+# Day 2: Control Flow - Logic and Comparison Operators
+# This script features an 'Age Checker' to demonstrate if/else statements
+# and comparison operators (>, <, >=, <=, ==).
+
 age = int(input('What is your age? '));
 
 if(age < 0):
